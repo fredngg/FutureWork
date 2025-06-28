@@ -196,9 +196,6 @@ const Contact = () => {
                 <button className="bg-white/20 backdrop-blur-sm text-white px-6 py-3 rounded-lg font-semibold hover:bg-white/30 transition-all">
                   Schedule Call
                 </button>
-                <button className="border border-white/30 text-white px-6 py-3 rounded-lg font-semibold hover:bg-white/10 transition-all">
-                  Download Brochure
-                </button>
               </div>
             </div>
           </div>

@@ -47,17 +47,17 @@ const Services = () => {
     },
     {
       icon: Shield,
-      title: "Combating AI Misinformation",
-      subtitle: "Truth & Transparency in AI",
-      description: "Advanced tools and strategies to identify, debunk, and prevent the spread of AI misinformation, fostering trust and informed discourse.",
+      title: "Responsible AI Development",
+      subtitle: "Transparency & Tools for Ethical AI",
+      description: "As an AI company, we're committed to responsible AI development through transparency, ethical tools, and combating misinformation to advance mankind's progress.",
       features: [
-        "AI-powered fact-checking",
-        "Deepfake detection software",
-        "Public education campaigns",
-        "Misinformation tracking dashboards",
-        "Credible AI resource hub"
+        "AI transparency frameworks",
+        "Ethical AI development tools",
+        "Misinformation detection systems",
+        "Responsible AI governance",
+        "Public education initiatives"
       ],
-      departments: ["Media Organizations", "Government Agencies", "Educational Institutions", "Public Awareness"],
+      departments: ["Technology Companies", "Government Agencies", "Educational Institutions", "Research Organizations"],
       gradient: "from-amber-500 to-amber-600",
       bgGradient: "from-amber-50 to-amber-100/50",
       link: "/services/misinformation-combat"

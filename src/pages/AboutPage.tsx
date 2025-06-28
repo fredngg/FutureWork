@@ -231,11 +231,11 @@ const AboutPage = () => {
                     <Briefcase className="w-6 h-6 text-white" />
                   </div>
                   <div>
-                    <h4 className="text-lg font-semibold text-gray-800">Digital Marketing Agency (JF Times LLP)</h4>
+                    <h4 className="text-lg font-semibold text-gray-800">JF Times LLP</h4>
                     <p className="text-gray-600">Founder • Successful Exit</p>
                   </div>
                 </div>
-                <p className="text-gray-700">Specialized in marketing automation, direct-response advertising, and conversion optimization, building a data-driven approach to customer acquisition.</p>
+                <p className="text-gray-700">Founded a digital marketing agency specializing in marketing automation, direct-response advertising, and conversion optimization, building a data-driven approach to customer acquisition.</p>
               </div>
             </div>
           </div>

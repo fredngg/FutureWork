@@ -35,8 +35,8 @@ const Hero = () => {
         </h1>
 
         <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
-          We build intelligent agentic workflows, foster AI literacy, and combat misinformation 
-          to create a productive and ethical AI-driven future.
+          We build intelligent agentic workflows, foster AI literacy, and combat misinformation through 
+          transparency and tools to create a productive and ethical AI-driven future.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
@@ -77,8 +77,8 @@ const Hero = () => {
             <div className="w-12 h-12 bg-gradient-to-br from-amber-500 to-amber-600 rounded-xl flex items-center justify-center mb-4 mx-auto">
               <Shield className="w-6 h-6 text-white" />
             </div>
-            <h3 className="text-2xl font-bold text-gray-800 mb-2">Misinformation Combat</h3>
-            <p className="text-gray-600">Promoting responsible AI through truth and transparency</p>
+            <h3 className="text-2xl font-bold text-gray-800 mb-2">Responsible AI</h3>
+            <p className="text-gray-600">Promoting ethical AI through transparency and tools</p>
           </div>
         </div>
       </div>

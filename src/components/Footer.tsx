@@ -95,6 +95,14 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
+                <Link 
+                  to="/success-stories"
+                  className="text-gray-300 hover:text-white transition-colors"
+                >
+                  Success Stories
+                </Link>
+              </li>
+              <li>
                 <button 
                   onClick={() => scrollToSection('contact')}
                   className="text-gray-300 hover:text-white transition-colors"
