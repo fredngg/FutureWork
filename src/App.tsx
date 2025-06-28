@@ -9,7 +9,6 @@ import MisinformationCombatPage from './pages/services/MisinformationCombatPage'
 
 function App() {
   return (
-    <Router>
       <div className="min-h-screen bg-white">
         <Routes>
           <Route path="/" element={<HomePage />} />
@@ -20,7 +19,6 @@ function App() {
           <Route path="/services/misinformation-combat" element={<MisinformationCombatPage />} />
         </Routes>
       </div>
-    </Router>
   );
 }
 
